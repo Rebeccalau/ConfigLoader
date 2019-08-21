@@ -1,0 +1,10 @@
+property_name: property_name_str
+
+extra_defined_prop: extra_defined_prop_str
+
+namedtuple_config:
+  name: nt_name
+  address: nt_address
+  password: nt_password
+  username: nt_username
+  nt_extra_variable: this_doesnt_error
